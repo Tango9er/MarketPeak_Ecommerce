@@ -129,7 +129,7 @@ sudo systemctl reload httpd
 
 ## Access Website from browser
 - Copy the public IP address of EC2 instance
-- Open a web browser and paste IP address in the address bar ![website](https://1drv.ms/i/c/218bbed2076f1b05/EdMJOhcqSb1Bk1E6ZyzqlHYBOysKeAxA0fOfhDWWbzvSjg?e=dM898V)
+- Open a web browser and paste IP address in the address bar ![website](image-2.png)
 
 ## Continuous Integration and Deployment 
 1. **Developing new features and fixes**
@@ -186,7 +186,7 @@ sudo systemctl reload httpd
     - Navigate to IP address of EC2 instance and copy it.
     - Open web browser and paste IP address in the address bar. 
     - Check new changes to see if they have been effected.
-    ![changes](https://1drv.ms/i/c/218bbed2076f1b05/Ec5pDr5M9uRCiOG9J-5mCngBHLCV4_OK3k6cpGgURF_ALg?e=0O9ptX)
+    ![changes](image-1.png)
     
 
 
